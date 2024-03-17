@@ -1,1 +1,1 @@
-directory with all exercises from python tutorial by w3schools for fulfillment of my assignments.
+Assignments for my second Programming Principles course from my university (Kazakh-British Technical University)
